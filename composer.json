@@ -1,0 +1,12 @@
+{
+    "name": "ismal/libhallo",
+    "description": "pembuatan library sederhana",
+    "type": "linbrary",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require":{
+        "psr-4": {"ismal//libahallo": "src"}
+    }
+
+}
+
